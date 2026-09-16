@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "58203854800",
+    "firebase_url": "https://foodapp-f5692-default-rtdb.firebaseio.com",
+    "project_id": "foodapp-f5692",
+    "storage_bucket": "foodapp-f5692.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58203854800:android:c1fa30146e1dce279d4bd5",
+        "android_client_info": {
+          "package_name": "com.example.foodapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe2T6X_HrHmSJuvNfE9HU6sZ3qHtarD2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58203854800:android:3a7164f5d48dbd0f9d4bd5",
+        "android_client_info": {
+          "package_name": "com.lider.foodinstamart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe2T6X_HrHmSJuvNfE9HU6sZ3qHtarD2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
